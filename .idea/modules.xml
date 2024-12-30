@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/001 Hello Wolrd/001 Hello Wolrd.iml" filepath="$PROJECT_DIR$/1. Java Basics/001 Hello Wolrd/001 Hello Wolrd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/002 Variables_dataTypes/002 Variables_dataTypes.iml" filepath="$PROJECT_DIR$/1. Java Basics/002 Variables_dataTypes/002 Variables_dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/003 Switch_variables/003 Switch_variables.iml" filepath="$PROJECT_DIR$/1. Java Basics/003 Switch_variables/003 Switch_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/004 Type_Casting/004 Type_Casting.iml" filepath="$PROJECT_DIR$/1. Java Basics/004 Type_Casting/004 Type_Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/005 Scanner_class_userInput/005 Scanner_class_userInput.iml" filepath="$PROJECT_DIR$/1. Java Basics/005 Scanner_class_userInput/005 Scanner_class_userInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/006 Command_line_Arguments/006 Command_line_Arguments.iml" filepath="$PROJECT_DIR$/1. Java Basics/006 Command_line_Arguments/006 Command_line_Arguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/007 GUI_basic_dialogue/007 GUI_basic_dialogue.iml" filepath="$PROJECT_DIR$/1. Java Basics/007 GUI_basic_dialogue/007 GUI_basic_dialogue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" filepath="$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" />
+    </modules>
+  </component>
+</project>
