@@ -10,8 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/006 Command_line_Arguments/006 Command_line_Arguments.iml" filepath="$PROJECT_DIR$/1. Java Basics/006 Command_line_Arguments/006 Command_line_Arguments.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/007 GUI_basic_dialogue/007 GUI_basic_dialogue.iml" filepath="$PROJECT_DIR$/1. Java Basics/007 GUI_basic_dialogue/007 GUI_basic_dialogue.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/008 convert_String_to_Int/008 convert_String_to_Int.iml" filepath="$PROJECT_DIR$/1. Java Basics/008 convert_String_to_Int/008 convert_String_to_Int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/009 Math_Class/009 Math_Class.iml" filepath="$PROJECT_DIR$/1. Java Basics/009 Math_Class/009 Math_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" filepath="$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/Random_Number_Generation/Random_Number_Generation.iml" filepath="$PROJECT_DIR$/1. Java Basics/Random_Number_Generation/Random_Number_Generation.iml" />
     </modules>
   </component>
 </project>
