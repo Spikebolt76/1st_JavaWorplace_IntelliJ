@@ -17,6 +17,8 @@ public class Wrapper_classes
         long	Long
         boolean	Boolean
 
+        => Collections Compatibility: Allows primitives to be stored in collections like ArrayList(which only supports objects).
+
         autoboxing = the automatic conversion that Java compiler makes between the primitive data-type and
                      their corresponding object wrapper class
         unboxing = the reverse of autoboxing. Automatic conversion of wrapper class to primitive data-type
