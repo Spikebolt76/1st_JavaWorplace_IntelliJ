@@ -1,7 +1,7 @@
 //That syntax is called the enhanced for loop, or for-each loop, in Java. It's designed to iterate over elements
 // in a collection, such as arrays, without the need to manually manage the index.
 //for (dataType variable : collection) {
-//    // Code to process each element
+//     Code to process each element;
 //}
 
 public class for_each_Loop
@@ -14,5 +14,13 @@ public class for_each_Loop
         for (int num : arr) {
             System.out.println(num);
         }
+
+//Simplification of for each loop :
+
+//        for (int i = 0; i < numbers.length; i++) {
+//            int num = numbers[i];
+//            System.out.println(num);
+//        }
+
     }
 }

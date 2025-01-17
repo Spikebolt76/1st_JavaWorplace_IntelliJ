@@ -32,7 +32,6 @@ public class Selection_Sort
     public static void main(String[] args)
     {
        int arr[] =  {56, 34, 243, 45, 1, 82, 10, 743, 21, -34, -19, 38, 32, 55, 29, 46, -45, 90, 3, 6, 2};
-       int n = arr.length;
 
         System.out.println("Original Array : ");
         printArray(arr);
