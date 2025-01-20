@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/001 Hello Wolrd/001 Hello Wolrd.iml" filepath="$PROJECT_DIR$/1. Java Basics/001 Hello Wolrd/001 Hello Wolrd.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Object_Oriented_Prog/001 Methods/001 Methods.iml" filepath="$PROJECT_DIR$/2. Object_Oriented_Prog/001 Methods/001 Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Math_Programs/001 Permutaion - Combinations/001 Permutaion - Combinations.iml" filepath="$PROJECT_DIR$/3. Math_Programs/001 Permutaion - Combinations/001 Permutaion - Combinations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Math_Programs/002 Numerical_Analysis/002 Numerical_Analysis.iml" filepath="$PROJECT_DIR$/3. Math_Programs/002 Numerical_Analysis/002 Numerical_Analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/002 Variables_dataTypes/002 Variables_dataTypes.iml" filepath="$PROJECT_DIR$/1. Java Basics/002 Variables_dataTypes/002 Variables_dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/003 Switch_variables/003 Switch_variables.iml" filepath="$PROJECT_DIR$/1. Java Basics/003 Switch_variables/003 Switch_variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/004 Type_Casting/004 Type_Casting.iml" filepath="$PROJECT_DIR$/1. Java Basics/004 Type_Casting/004 Type_Casting.iml" />
@@ -24,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" filepath="$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Object_Oriented_Prog/2. Object_Oriented_Prog.iml" filepath="$PROJECT_DIR$/2. Object_Oriented_Prog/2. Object_Oriented_Prog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Math_Programs/3. Math_Programs.iml" filepath="$PROJECT_DIR$/3. Math_Programs/3. Math_Programs.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Chapter-02.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Chapter-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Exercise_02/Exercise_02.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Exercise_02/Exercise_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Java Prog. Y.Liang.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Java Prog. Y.Liang.iml" />
