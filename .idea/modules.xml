@@ -28,23 +28,32 @@
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/010 Random_Number_Generation/010 Random_Number_Generation.iml" filepath="$PROJECT_DIR$/1. Java Basics/010 Random_Number_Generation/010 Random_Number_Generation.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Object_Oriented_Prog/011 Inheritance [and Super keyword]/011 Inheritance [and Super keyword].iml" filepath="$PROJECT_DIR$/2. Object_Oriented_Prog/011 Inheritance [and Super keyword]/011 Inheritance [and Super keyword].iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/011 String_Methods/011 String_Methods.iml" filepath="$PROJECT_DIR$/1. Java Basics/011 String_Methods/011 String_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Object_Oriented_Prog/012 Abstraction/012 Abstraction.iml" filepath="$PROJECT_DIR$/2. Object_Oriented_Prog/012 Abstraction/012 Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/012 FlowControl_and_Loops/012 FlowControl_and_Loops.iml" filepath="$PROJECT_DIR$/1. Java Basics/012 FlowControl_and_Loops/012 FlowControl_and_Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/013 Arrays_multiDimArrays/013 Arrays_multiDimArrays.iml" filepath="$PROJECT_DIR$/1. Java Basics/013 Arrays_multiDimArrays/013 Arrays_multiDimArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/014 Wrapper Classes/014 Wrapper Classes.iml" filepath="$PROJECT_DIR$/1. Java Basics/014 Wrapper Classes/014 Wrapper Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/015 ArrayLists/015 ArrayLists.iml" filepath="$PROJECT_DIR$/1. Java Basics/015 ArrayLists/015 ArrayLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/018 Recursions/018 Recursions.iml" filepath="$PROJECT_DIR$/1. Java Basics/018 Recursions/018 Recursions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1. Java Basics/019 ENUMS/019 ENUMS.iml" filepath="$PROJECT_DIR$/1. Java Basics/019 ENUMS/019 ENUMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Concepts/02 ArraySort_Methods/02 ArraySort_Methods.iml" filepath="$PROJECT_DIR$/DSA Concepts/02 ArraySort_Methods/02 ArraySort_Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Concepts/03 Subsequences_Of_String/03 Subsequences_Of_String.iml" filepath="$PROJECT_DIR$/DSA Concepts/03 Subsequences_Of_String/03 Subsequences_Of_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Concepts/04 TwoSum/04 TwoSum.iml" filepath="$PROJECT_DIR$/DSA Concepts/04 TwoSum/04 TwoSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Concepts/05 LinkedLists/05 LinkedLists.iml" filepath="$PROJECT_DIR$/DSA Concepts/05 LinkedLists/05 LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" filepath="$PROJECT_DIR$/1. Java Basics/1. Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. String Handling/10. String Handling.iml" filepath="$PROJECT_DIR$/10. String Handling/10. String Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" filepath="$PROJECT_DIR$/1st_JavaWorplace_IntelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Object_Oriented_Prog/2. Object_Oriented_Prog.iml" filepath="$PROJECT_DIR$/2. Object_Oriented_Prog/2. Object_Oriented_Prog.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Immutability/3. Immutability.iml" filepath="$PROJECT_DIR$/3. Immutability/3. Immutability.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4. Maps/4. Maps.iml" filepath="$PROJECT_DIR$/4. Maps/4. Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Collections Framework/4. Collections Framework.iml" filepath="$PROJECT_DIR$/4. Collections Framework/4. Collections Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Exception Handling/5. Exception Handling.iml" filepath="$PROJECT_DIR$/5. Exception Handling/5. Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. Abstract Classes and Interfaces/6. Abstract Classes and Interfaces.iml" filepath="$PROJECT_DIR$/6. Abstract Classes and Interfaces/6. Abstract Classes and Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. Generics/7. Generics.iml" filepath="$PROJECT_DIR$/7. Generics/7. Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. File Management/8. File Management.iml" filepath="$PROJECT_DIR$/8. File Management/8. File Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. Multithreading/9. Multithreading.iml" filepath="$PROJECT_DIR$/9. Multithreading/9. Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Chapter-02.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Chapter-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-04/Chapter-04.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-04/Chapter-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Concepts/DSA Concepts.iml" filepath="$PROJECT_DIR$/DSA Concepts/DSA Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Exception Handling/ExeptionsDemo/ExeptionsDemo.iml" filepath="$PROJECT_DIR$/5. Exception Handling/ExeptionsDemo/ExeptionsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Exercise_02/Exercise_02.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-02/Exercise_02/Exercise_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-04/Exercise_04/Exercise_04.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Chapter-04/Exercise_04/Exercise_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Prog. Y.Liang/Java Prog. Y.Liang.iml" filepath="$PROJECT_DIR$/Java Prog. Y.Liang/Java Prog. Y.Liang.iml" />

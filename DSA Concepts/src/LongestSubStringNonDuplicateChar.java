@@ -1,5 +1,5 @@
 import java.util.*;
-
+import java.lang.Number;
 class Solution {
 
     static public int lengthOfLongestSubstring(String str) {
